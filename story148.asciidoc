@@ -1,0 +1,20 @@
+Introduction
+============
+
+Scope
+=====
+
+
+Requirements
+============
+
+
+FMEA
+====
+
+
+One of the technical risks in using git is that to handle it proper requires some training.
+Unexperienced users might push to wrong branches causing confusion all over the place.
+To mitigate the risk we propose the following:
+a) ...
+
